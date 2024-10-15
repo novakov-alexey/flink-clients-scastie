@@ -1,0 +1,1 @@
+sbt -DflinkVersion=1.18.1 -Dgpg.passphrase="<phrase>" "release with-defaults"
